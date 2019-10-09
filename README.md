@@ -1,4 +1,4 @@
-# Introduction-to-Statistics-with-Python
+# Introduction to Statistics with Python
 This repo will contain my work and notes as I work through an introductory stats book written for Python.
 
 ## What book is that though?
